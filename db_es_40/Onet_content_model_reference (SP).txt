@@ -1,0 +1,426 @@
+ELEMENT ID	ELEMENT NAME	DESCRIPTION
+1	Características del trabajador	Características del trabajador
+1.A	Aptitudes	Características permanentes del individuo que influyen en su desempeño laboral.
+1.A.1	Aptitudes cognitivas	Aptitudes que influyen en la adquisición de conocimiento y en la aplicación del mismo para resolver problemas.
+1.A.1.a	Aptitudes verbales	Aptitudes que influyen en la adquisición de información verbal y en la aplicación de la misma a la resolución de problemas.
+1.A.1.a.1	Comprensión oral	La aptitud para escuchar y entender la información e ideas que se presentan oralmente a través de palabras y frases.
+1.A.1.a.2	Comprensión escrita	La aptitud para leer y entender la información e ideas que se presentan por escrito.
+1.A.1.a.3	Expresión oral	La aptitud para comunicar oralmente información e ideas de tal manera que otros las entiendan.
+1.A.1.a.4	Expresión escrita	La aptitud para comunicar por escrito información e ideas de tal manera que otros las entiendan.
+1.A.1.b	Aptitud para generar ideas y razonar	Aptitudes que influyen en la aplicación y manipulación de información para resolver problemas.
+1.A.1.b.1	Fluidez de Ideas	La aptitud para proponer varias ideas sobre un tema (el número de ideas es importante, no su calidad, exactitud, o creatividad).
+1.A.1.b.2	Originalidad	La aptitud para proponer ideas originales e inteligentes sobre un tema o situación determinados, o para desarrollar formas creativas de  resolver un problema.
+1.A.1.b.3	Susceptibilidad a los problemas	La aptitud para reconocer cuando algo es incorrecto o es probable que salga mal. No implica resolver el problema, sólo reconocer que existe un problema.
+1.A.1.b.4	Razonamiento deductivo	La aptitud para aplicar reglas generales a problemas específicos para obtener respuestas que tengan sentido.
+1.A.1.b.5	Razonamiento inductivo	La aptitud para combinar diferente información de tal manera que se puedan formar reglas generales o llegar a conclusiones (incluye el encontrar una relación entre eventos aparentemente no relacionados).
+1.A.1.b.6	Clasificación de información	La aptitud para colocar objetos o acciones en un cierto orden o modelo de acuerdo con una regla específica o con un conjunto de reglas (por ejemplo, un conjunto de números, cartas, palabras, imágenes, operaciones matemáticas).
+1.A.1.b.7	Flexibilidad para categorizar	La aptitud para generar o utilizar diferentes conjuntos de reglas para combinar o agrupar objetos de diferentes maneras.
+1.A.1.c	Aptitudes cuantitativas	Aptitudes que influyen en la solución de problemas, incluyendo operaciones matemáticas.
+1.A.1.c.1	Razonamiento matemático	La aptitud para elegir los métodos matemáticos o las fórmulas correctas para resolver un problema.
+1.A.1.c.2	Facilidad para los números	La aptitud para sumar, restar, multiplicar o dividir rápida y correctamente.
+1.A.1.d	Memoria	Las aptitudes relacionadas con la memorización de información disponible.
+1.A.1.d.1	Memorización	La aptitud para recordar información tal como palabras, números, imágenes y procedimientos.
+1.A.1.e	Aptitudes de percepción	Las aptitudes relacionadas con la adquisición y organización de información visual.
+1.A.1.e.1	Rapidez para llegar a conclusiones	La aptitud para entender rápidamente, combinar y organizar información en modelos que tengan significado.
+1.A.1.e.2	Flexibilidad para llegar a conclusiones	La aptitud para identificar o detectar un modelo conocido (tal como una figura, objeto, palabra o sonido) que está oculto entre otros de distracción.
+1.A.1.e.3	Rapidez de percepción	La aptitud para comparar rápidamente y con precisión similitudes y diferencias entre grupos de cartas, números, objetos, imágenes o modelos.  Las cosas que se van a comparar pueden ser mostradas al mismo tiempo o una después de la otra. Esta aptitud también incluye el comparar un objeto que se mostró con un objeto que se recuerde.
+1.A.1.f	Aptitudes respecto al espacio que lo rodea	Las aptitudes relacionadas con la manipulación y organización de información relacionada con el espacio que lo rodea.
+1.A.1.f.1	Orientación respecto al espacio que lo rodea	La aptitud para conocer su situación en relación con el medio que lo rodea o para conocer donde se encuentran otros objetos en relación consigo mismo.
+1.A.1.f.2	Visualización	La aptitud para imaginar cómo lucirá algo después de que se mueva de lugar o cuando las partes que lo componen se muevan o se cambien.
+1.A.1.g	Atención	Las aptitudes relacionadas con poner atención.
+1.A.1.g.1	Atención selectiva	La aptitud para concentrarse en una tarea en un periodo de tiempo, sin distraerse.
+1.A.1.g.2	Dividir el tiempo	La aptitud para cambiar de un lado a otro entre dos o más actividades o fuentes de información (como de una plática o conversación, sonidos, tacto o contácto físico, u otras fuentes).
+1.A.2	Aptitudes psicomotrices	Aptitudes que influyen en la capacidad para manipular y controlar objetos.
+1.A.2.a	Aptitudes para manipulaciones delicadas	Aptitudes relacionadas con la manipulación de objetos.
+1.A.2.a.1	Pulso firme	La aptitud para mantener su mano y brazo firmes mientras mueve el brazo o mientras sostiene el brazo y la mano en una sola posición.
+1.A.2.a.2	Destreza manual	La aptitud para mover su mano rápidamente, su mano junto con su brazo, o sus dos manos conjuntamente para agarrar, manipular, o armar objetos.
+1.A.2.a.3	Destreza con los dedos	La aptitud para realizar movimientos precisos y coordinados con los dedos de una o ambas manos para agarrar, manipular, o armar objetos muy pequeños.
+1.A.2.b	Aptitudes para controlar el movimiento	Aptitudes relacionadas con el control y manipulación de objetos en el tiempo y espacio.
+1.A.2.b.1	Precisión de control	La aptitud para ajustar rápidamente y en repetidas ocasiones los controles de una máquina o un vehículo en sus posiciones exactas.
+1.A.2.b.2	Coordinación múltiple de las extremidades	La aptitud para coordinar dos o más extremidades (por ejemplo, dos brazos, dos piernas, o una pierna y un brazo) mientras se está sentado, de pie, o acostado. No implica realizar las actividades mientras todo el cuerpo está en movimiento.
+1.A.2.b.3	Orientación de la respuesta	La aptitud para elegir rápidamente entre dos o más movimientos en respuesta a dos o más señales o estímulos diferentes (luces, sonidos, imágenes). Incluye la velocidad con la que se inicia la respuesta correcta, con la mano, pie u otra parte del cuerpo.
+1.A.2.b.4	Fijar el paso	La aptitud para calcular con anticipación sus movimientos o el movimiento de una parte del equipo en relación con los cambios de velocidad y/o dirección de un objeto o imagen en movimiento.
+1.A.2.c	Aptitud para reaccionar a tiempo y con rapidez	Aptitudes relacionadas con la rapidez para manipular objetos.
+1.A.2.c.1	Tiempo de reacción	La aptitud para responder rápidamente (con la mano, dedo, o pie) a una señal (sonido, luz, imagen) cuando aparece.
+1.A.2.c.2	Rapidez de la muñeca y los dedos	La aptitud para realizar rápidamente, simples y repetidos movimientos con los dedos, manos, y muñecas.
+1.A.2.c.3	Rapidez para mover las extremidades	La aptitud para mover rápidamente los brazos y las piernas.
+1.A.3	Aptitudes físicas	Aptitudes que influyen en la fuerza, resistencia, flexibilidad, equilibrio y coordinación.
+1.A.3.a	Aptitudes de fuerza física	Las aptitudes relacionadas con la capacidad para emplear la fuerza.
+1.A.3.a.1	Fuerza estática	La aptitud para ejercer al máximo la fuerza muscular para levantar, empujar, jalar, o cargar objetos.
+1.A.3.a.2	Fuerza explosiva	La aptitud para utilizar pequeños arranques de fuerza muscular para impulsarse a sí mismo (al saltar o al correr), o para lanzar un objeto.
+1.A.3.a.3	Fuerza dinámica	La aptitud para ejercer fuerza muscular repetida o continuamente por más tiempo. Esto incluye resistencia muscular y resistencia a la fatiga muscular.
+1.A.3.a.4	Fuerza del tronco	La aptitud para utilizar su abdomen y los músculos bajos de la espalda para apoyar parte del cuerpo repetida o continuamente por más tiempo sin fallar o fatigarse.
+1.A.3.b	Resistencia	La aptitud para ejercitarse físicamente durante períodos prolongados sin quedar agotado.
+1.A.3.b.1	Vitalidad	La aptitud de realizar ejercicios físicos durante períodos prolongados sin quedar agotado o falto de energía.
+1.A.3.c	Flexibilidad, equilibrio, y coordinación	Aptitudes relacionadas con el control de movimientos generales del cuerpo.
+1.A.3.c.1	Flexibilidad extrema	La aptitud para flexionar, estirar, girar, o alcanzar objetos con su cuerpo, brazos y/o piernas.
+1.A.3.c.2	Flexibilidad dinámica	La aptitud para flexionar, estirar, girar, o alcanzar  rápida y repetidamente objetos con su cuerpo, brazos, y/o piernas.
+1.A.3.c.3	Coordinación de movimientos generales del cuerpo	La aptitud para coordinar conjuntamente el movimiento de sus brazos, piernas, y torso mientras todo el cuerpo está en movimiento.
+1.A.3.c.4	Mantener el equilibrio	La aptitud para mantener o recuperar el equilibrio del cuerpo o permanecer derecho en una posición inestable.
+1.A.4	Aptitudes sensoriales	Aptitudes que influyen en la percepción visual, auditiva y oral.
+1.A.4.a	Aptitudes visuales	Aptitudes relacionadas con la percepción visual.
+1.A.4.a.1	Visión de cerca	La aptitud para observar detalles de cerca (a unos cuantos pasos del observador).
+1.A.4.a.2	Visión de lejos	La aptitud para observar detalles a distancia.
+1.A.4.a.3	Discernimiento visual de colores	La aptitud para combinar colores o detectar diferencias entre colores, incluyendo los diferentes matices y brillos.
+1.A.4.a.4	Visión nocturna	La aptitud de poder ver cuando la luz es escasa.
+1.A.4.a.5	Visión periférica	La aptitud para detectar la presencia o el movimiento de objetos ubicados a los lados cuando los ojos están mirando al frente.
+1.A.4.a.6	Percepción de profundidad	La aptitud para calcular cuál de varios objetos se encuentra mas distante o cercano, o para calcular la distancia entre la posición en que uno se encuentra y un objeto próximo.
+1.A.4.a.7	Sensibilidad al reflejo de la luz	La aptitud para ver objetos en presencia de luz intensa o brillante.
+1.A.4.b	Aptitudes auditivas y orales	Aptitudes relacionadas con información auditiva y oral.
+1.A.4.b.1	Sensibilidad auditiva	La aptitud para detectar las diferencias entre sonidos que varían en tono e intensidad.
+1.A.4.b.2	Atención auditiva	La aptitud para concentrarse en un sólo sonido en presencia de otros sonidos de distracción.
+1.A.4.b.3	Localización del sonido	La aptitud para indicar la dirección de donde proviene un sonido.
+1.A.4.b.4	Reconocimiento del habla	La aptitud para identificar y entender el habla de otra persona.
+1.A.4.b.5	Claridad al hablar	La aptitud para hablar claramente y que otros puedan entenderlo.
+1.B	Intereses	Preferencias por ambiente de trabajo y resultados del mismo.
+1.B.1	Intereses profesionales	Los perfiles de los intereses profesionales (PIP) son compatibles con el modelo de Holland (1985,1997) de los tipos de personalidad y condiciones de trabajo. Se utilizan seis categorías de interés para describir los ambientes laborales de las profesiones: realista, investigadora, artística, social, emprendedora, y convencional. Un PIP consiste en seis resultados numéricos que indican que tan descriptivo y característico resulta cada ambiente laboral (o área de interés) para una ocupación de O*NET-SOC. Además, el punto máximo de un perfil se ha designado para indicar qué intereses son los más característicos de una ocupación O*NET-SOC. El punto culminante de un perfil consta de uno a tres códigos de interés, dependiendo de cuántas categorías de interés reúna el grado mínimo de descripción de la ocupación.
+1.B.1.a	Realista	Las profesiones realistas por lo regular involucran actividades de trabajo que incluyen problemas prácticos y soluciones. Tratan a menudo con plantas, animales, y materiales como madera, herramientas, y maquinaria. Varias de estas profesiones requieren trabajar al aire libre, y no involucran mucho papeleo o trabajar conjuntamente con otros.
+1.B.1.b	Investigadora	Las profesiones investigativas involucran por lo regular el trabajar con ideas, y requieren pensar mucho. Estas profesiones pueden incluir la búsqueda objetiva de datos e información además de poder comprender mentalmente un problema.
+1.B.1.c	Artística	Las profesiones artísticas por lo regular incluyen el trabajar con formatos, diseños y modelos. En general requieren la autoexpresión y el trabajo puede realizarse sin seguir un conjunto claro de reglas.
+1.B.1.d	Social	Las profesiones sociales por lo regular incluyen el trabajar con, comunicarse con, y enseñar a otras personas. Estas profesiones incluyen a menudo el ayudar o proporcionar servicio a otros.
+1.B.1.e	Emprendedora	Las profesiones emprendedoras por lo regular involucran el iniciar y llevar a cabo proyectos. Estas profesiones pueden involucrar asumir liderazgo de otras personas y tomar muchas decisiones. A veces requieren tomar riesgos y a menudo tratan con negocios.
+1.B.1.f	Convencional	Las profesiones convencionales por lo regular involucran el seguir procedimientos fijos y de rutina. Estas profesiones pueden incluir el trabajar con datos y detalles más que con ideas. Hay normalmente una línea clara de autoridad a seguir.
+1.B.1.g	Punto culminante del primer interés	Primer rango descriptivo
+1.B.1.h	Punto culminante del segundo interés	Límite secundario/rango descriptivo
+1.B.1.i	Punto culminante del tercer interés	Límite terciario/rango descriptivo
+1.B.2	Valores profesionales	Los patrones de refuerzo profesional (PRP) indican qué valores de trabajo y necesidades en el trabajo tienen mayor probabilidad de ser  satisfechos y reforzados por una profesión O*NET-SOC en particular. El uso de valores de trabajo para describir ocupaciones se basa en la teoría de ajuste al trabajo (TAT) que se desarrolló durante el proyecto de ajuste al trabajo en la Universidad de Minnesota con subsidios de investigación del Departamento de Salud, Educación y Bienestar de EUA (Dawis, R.V., Inglaterra, G.W., & Lofquist, L.H., 1964; Dawis, R.V., & Lofquist L. H., 1984).  Esta teoría propone que la satisfacción en el trabajo está directamente relacionada al grado en el que los valores de una persona y las necesidades correspondientes se satisfacen a través de su ambiente de trabajo. El TAT identifica seis valores del trabajo, cada uno con su correspondiente conjunto de necesidades. Cada profesión O*NET-SOC tiene un PRP que consta de: 1) 6 resultados numéricos que indican hasta que punto cada valor de trabajo está reforzado; y 2) 21 resultados numéricos que indican hasta que punto cada necesidad está reforzada.
+1.B.2.a	Magnitud del promedio del logro	Las profesiones que satisfacen este valor de trabajo están enfocadas en obtener buenos resultados y permiten a los empleados utilizar sus mejores aptitudes, proporcionándoles la satisfacción de haber alcanzado una meta. Las necesidades correspondientes son la utilización de las aptitudes propias y el logro.
+1.B.2.a.1	Uso de la aptitud	Los trabajadores en este trabajo utilizan sus aptitudes individuales.
+1.B.2.a.2	Logro	Los trabajadores en este trabajo tienen la satisfacción de haber alcanzado una meta.
+1.B.2.b	Magnitud del Promedio de las Condiciones de Trabajo	Las profesiones que satisfacen este valor del trabajo proporcionan estabilidad y buenas condiciones del mismo. Las necesidades correspondientes son actividad, compensación, independencia, seguridad, variedad y condiciones de trabajo.
+1.B.2.b.1	Actividad	Los empleados en este trabajo están ocupados todo el tiempo.
+1.B.2.b.2	Independencia	Los empleados en este trabajo realizan sus labores solos.
+1.B.2.b.3	Variedad	Los empleados en este trabajo tienen algo diferente que hacer todos los días.
+1.B.2.b.4	Compensación	Los empleados en este trabajo están bien pagados en comparación con otros trabajadores.
+1.B.2.b.5	Seguridad	Los empleados en este trabajo tienen un empleo estable.
+1.B.2.b.6	Condiciones de trabajo	Los empleados en este trabajo tienen buenas condiciones de trabajo.
+1.B.2.c	Magnitud del promedio del reconocimiento	Las profesiones que satisfacen este valor de trabajo ofrecen posibilidades de ascenso y de alcanzar posiciones de liderazgo, y por lo regular son consideradas de prestigio. Las necesidades correspondientes son ascenso, autoridad, reconocimiento y posición social.
+1.B.2.c.1	Ascenso	Los empleados en este trabajo tienen oportunidades de progresar.
+1.B.2.c.2	Reconocimiento	Los empleados en este trabajo reciben reconocimiento por el trabajo que hacen.
+1.B.2.c.3	Autoridad	Los empleados en este trabajo dan órdenes e instrucciones a otros.
+1.B.2.c.4	Posición social	Los empleados en este trabajo son respetados por los otros empleados de su compañía y por los miembros de su comunidad.
+1.B.2.d	Magnitud del promedio de las relaciones	Las profesiones que satisfacen este valor de trabajo permiten a los empleados dar un servicio a otros y trabajar con sus compañeros en un ambiente amigable y no competitivo. Las necesidades correspondientes son compañeros de trabajo, valores morales y servicio social.
+1.B.2.d.1	Compañeros de trabajo	Los empleados en este trabajo tienen compañeros con los cuales es fácil llevarse bien.
+1.B.2.d.2	Servicio social	En este trabajo, los empleados realizan actividades para otras personas.
+1.B.2.d.3	Valores morales	En este trabajo, nunca se presiona a los empleados a que hagan cosas que van en contra de sus creencias personales respecto a lo que consideran moralmente correcto e incorrecto.
+1.B.2.e	Magnitud del apoyo	En las profesiones que satisfacen este valor de trabajo, los ejecutivos de la empresa respaldan a sus empleados. Las necesidades correspondientes son políticas de la compañía, supervisión: relaciones humanas y supervisión: técnica.
+1.B.2.e.1	Políticas y prácticas de la compañía	Los empleados en este trabajo son tratados de una forma justa por la compañía.
+1.B.2.e.2	Supervisión, relaciones humanas	Los empleados en este trabajo tienen supervisores que apoyan a sus empleados frente a la gerencia.
+1.B.2.e.3	Supervisión técnica	Los trabajadores en este trabajo tienen supervisores que entrenan bien a sus trabajadores.
+1.B.2.f	Importancia de la magnitud del promedio de independencia	Las profesiones que satisfacen este valor de trabajo permiten a los empleados trabajar por si mismos y tomar decisiones. Las necesidades correspondientes son creatividad, responsabilidad y autonomía.
+1.B.2.f.1	Creatividad	Los trabajadores en este trabajo ponen a prueba sus propias ideas.
+1.B.2.f.2	Responsabilidad	Los trabajadores en este trabajo toman decisiones por si mismos.
+1.B.2.f.3	Autonomía	Los trabajadores en este trabajo planean su trabajo con poca supervisión.
+1.C	Estilos de trabajo	Estilos de trabajo.
+1.C.1	Orientación al logro	El trabajo requiere establecer metas personales, cumplirlas satisfactoriamente, y esforzarse para ser competente en el trabajo.
+1.C.1.a	Logro/esfuerzo	El trabajo requiere establecer y mantener metas  que representen un reto personal y esforzarse para dominar las tareas.
+1.C.1.b	Perseverancia	El trabajo requiere perseverancia ante los obstáculos.
+1.C.1.c	Iniciativa	El trabajo requiere la disposición personal para asumir responsabilidades y retos.
+1.C.2	Influencia social	El trabajo requiere tener un impacto en otros en la organización, demostrando energía y liderazgo.
+1.C.2.b	Liderazgo	El trabajo requiere disposición para dirigir, hacerse cargo y dar opiniones e instrucciones.
+1.C.3	Orientación interpersonal	El trabajo requiere ser agradable, cooperativo, sensible a las necesidades de otros, fácil de llevarse bien y sociable con los otros miembros de la organización.
+1.C.3.a	Cooperación	El trabajo requiere ser agradable con otros en el trabajo y demostrar buena voluntad y deseos de cooperar.
+1.C.3.b	Preocupación por otros	El trabajo requiere ser sensitivo a las necesidades y sentimientos de los otros y de ser comprensible y amable en el trabajo.
+1.C.3.c	Orientación social	El trabajo requiere que se prefiera trabajar con otros a trabajar sólo, y sentirse vinculado personalmente con otros en el trabajo.
+1.C.4	Adaptación	El trabajo requiere madurez, serenidad, flexibilidad, y compostura para saber sobrellevar la presión, el estrés, la crítica, contratiempos, problemas personales y relacionados con el trabajo, etc.,
+1.C.4.a	Autocontrol	El trabajo requiere mantener la calma, controlar las emociones, el enojo, y evitar una conducta agresiva, incluso en situaciones muy difíciles.
+1.C.4.b	Tolerar el estrés	El trabajo requiere aceptar la crítica y manejar calmada y eficazmente las situaciones de gran estrés.
+1.C.4.c	Adaptabilidad/flexibilidad	El trabajo requiere estar dispuesto al cambio (positivo o negativo) y a la variedad considerable del lugar de trabajo.
+1.C.5	Dedicación	El trabajo requiere confiabilidad, compromiso para realizar el trabajo correcta y cuidadosamente, y ser digno de confianza, responsable, y atento a los detalles.
+1.C.5.a	Confiabilidad	El trabajo requiere ser confiable, responsable, y digno de confianza, y cumplir con las obligaciones.
+1.C.5.b	Atención al detalle	El trabajo requiere ser cuidadoso respecto al detalle y esmerado para completar las tareas del trabajo.
+1.C.5.c	Integridad	El trabajo requiere ser honesto y ético.
+1.C.6	Independencia	El trabajo requiere desarrollar las propias maneras de hacer uno las cosas, guiarse a sí mismo con poca o ninguna supervisión, y depender de sí mismo para hacer las cosas.
+1.C.7	Inteligencia práctica	El trabajo requiere generar ideas útiles y pensar las cosas lógicamente.
+1.C.7.a	Innovación	El trabajo requiere creatividad y una forma de pensar diferente que permita el desarrollo de nuevas ideas y la búsqueda de respuestas a los problemas relacionados con el trabajo.
+1.C.7.b	Mente analítica	El trabajo requiere analizar información y usar la lógica para enfrentar los asuntos y los problemas relacionados con el trabajo.
+2	Requisitos del trabajador	Requisitos del trabajador
+2.A	Habilidades básicas	Desarrollar capacidades que faciliten el aprendizaje o la adquisición más rápida del conocimiento.
+2.A.1	Contenido	El bagaje necesario para trabajar y adquirir habilidades más específicas en una variedad de campos diferentes.
+2.A.1.a	Comprensión de lectura	Entender oraciones y párrafos escritos en documentos relacionados con el trabajo.
+2.A.1.b	Audición Participativa	Prestar toda la atención a lo qué otras personas dicen, tomándose el tiempo necesario para entender los argumentos expuestos, realizar preguntas según sea apropiado, y no interrumpir en momentos inapropiados.
+2.A.1.c	Escribir	Comunicarse eficazmente por escrito y de acuerdo con las necesidades de los lectores.
+2.A.1.d	Hablar	Hablar con otros para transmitir la información eficazmente.
+2.A.1.e	Matemáticas	Utilizar las matemáticas para resolver problemas.
+2.A.1.f	Ciencia	Utilizar reglas científicas y métodos para resolver problemas.
+2.A.2	Proceso	Procedimientos que contribuyen a la adquisición más rápida del conocimiento y habilidad para el manejo de una variedad de funciones.
+2.A.2.a	Razonamiento crítico	Usar la lógica y el razonamiento para identificar las virtudes y los defectos de soluciones alternativas, conclusiones o propuestas a los problemas.
+2.A.2.b	Aprendizaje activo	Entender las implicaciones de la nueva información recibida tanto para resolver problemas como para tomar decisiones en el presente y en el futuro.
+2.A.2.c	Estrategias para el aprendizaje	Seleccionar y utilizar métodos de formación e instrucción y procedimientos adecuados a la situación cuando se aprenden o se enseñan nuevas cosas.
+2.A.2.d	Supervisión	Supervisar/evaluar el desempeño laboral propio o de otros individuos u organizaciones para implementar mejoras o llevar a cabo acciones correctivas.
+2.B	Destrezas multi-funcionales	Capacidades desarrolladas para facilitar el desempeño de actividades que se suscitan en diferentes tipos de trabajos.
+2.B.1	Destrezas sociales	Capacidades desarrolladas para trabajar con otras personas para así alcanzar metas.
+2.B.1.a	Perspicacia social	Ser consciente de las reacciones de otros y entender por qué reaccionan de esa forma.
+2.B.1.b	Coordinación	Ajustar las acciones propias en relación con las acciones de otros.
+2.B.1.c	Persuasión	Persuadir a otros para que cambien su forma de pensar o su comportamiento.
+2.B.1.d	Negociación	Unir a otros y tratar de conciliar las diferencias.
+2.B.1.e	Instruir	Enseñar a otros como hacer algo.
+2.B.1.f	Orientación al servicio	Buscar activamente formas para ayudar a otras personas.
+2.B.2	Destrezas para resolver problemas complejos	Capacidades desarrolladas para resolver problemas novedosos y pobremente definidos en situaciones complejas y reales.
+2.B.2.i	Resolver problemas complejos	Identificar problemas complejos y revisar la información relacionada para desarrollar y evaluar opciones e implementar soluciones.
+2.B.3	Habilidades técnicas	Desarrollar capacidades que se utilicen para diseñar, crear, operar, y corregir malos funcionamientos que involucran la aplicación de sistemas técnicos o de máquinas.
+2.B.3.a	Análisis de operaciones	Analizar las necesidades y requisitos del producto para crear un diseño.
+2.B.3.b	Diseño de tecnología	Generar o adaptar equipo y tecnología que cubran las necesidades del usuario.
+2.B.3.c	Selección de equipo	Determinar el tipo de herramientas y equipo necesarios para realizar un trabajo.
+2.B.3.d	Instalación	Instalar equipo, máquinas, cables o programas que cumplan con las especificaciones.
+2.B.3.e	Programación	Diseñar programas de computación para varios propósitos.
+2.B.3.g	Vigilancia de operaciones	Verificar indicadores, cuadrantes u otros instrumentos para asegurarse que una máquina está trabajando adecuadamente.
+2.B.3.h	Operación y control	Controlar la operación del equipo o de los sistemas.
+2.B.3.j	Mantenimiento del equipo	Dar mantenimiento constante al equipo y determinar cuando y qué tipo de mantenimiento se requiere.
+2.B.3.k	Resolver imprevistos	Determinar las causas de errores de operación y decidir qué hacer al respecto.
+2.B.3.l	Reparar	Reparar máquinas o sistemas utilizando las herramientas necesarias.
+2.B.3.m	Análisis del control de calidad	Realizar pruebas e inspecciones de productos, servicios, o procesos para evaluar su calidad o funcionamiento.
+2.B.4	Destrezas de sistemas	Capacidades desarrolladas para utilizar, entender, supervisar, y mejorar los sistemas socio-técnicos.
+2.B.4.e	Criterio y toma de decisiones	Comparar los costos y los beneficios relativos de diferentes alternativas para así elegir la más apropiada.
+2.B.4.g	Análisis de sistemas	Determinar como debe trabajar un sistema y cómo los cambios en las condiciones, en el funcionamiento y en el ambiente afectarán los resultados.
+2.B.4.h	Evaluación de sistemas	Identificar las medidas o indicadores del funcionamiento apropiado del sistema y las acciones que se requieren para mejorar o corregir el funcionamiento del mismo en relación con los objetivos del sistema.
+2.B.5	Destrezas de manejo de recursos	Capacidades desarrolladas para asignar los recursos eficientemente.
+2.B.5.a	Administración del tiempo	Administrar el tiempo de uno mismo y el tiempo de otros.
+2.B.5.b	Administración de recursos financieros	Determinar cómo se gastará el dinero para que se realice el trabajo y también contabilizar estos gastos.
+2.B.5.c	Administración de recursos materiales	Obtener y asegurar el uso apropiado del equipo, facilidades, y materiales que se requieren para hacer cierto tipo de trabajo.
+2.B.5.d	Administración de los recursos del personal	Motivar y dirigir a los empleados así como también promover su desarrollo; identificar a los mejores candidatos para realizar el trabajo.
+2.C	Conocimiento	Una serie de principios y teorías que se aplican en campos generales.
+2.C.1	Negocio y administración	Conocimiento de principios y hechos relacionados con la administración de negocios y contabilidad, administración de recursos humanos y materiales en organizaciones, ventas y mercadotecnia, economía, y sistemas de información y organización de oficinas.
+2.C.1.a	Administración y dirección	Conocimiento de principios de negocios y de administración que se utilizan en la planeación estratégica, asignación de recursos, modelo de recursos humanos, técnicas de liderazgo, métodos de producción, y coordinación de personas y de recursos.
+2.C.1.b	De oficina	Conocimiento de procedimientos administrativos y de oficina y de sistemas tales como procesador de palabras, manejo de archivos y documentos, estenografía y transcripción, diseño de formas, y otros procedimientos y terminología utilizados en la oficina.
+2.C.1.c	Economía y contabilidad	Conocimiento de principios y prácticas de economía y contabilidad, mercados financieros, banca y análisis y reporte de datos financieros.
+2.C.1.d	Ventas y mercadotecnia	Conocimiento de principios y métodos para mostrar, promover, y vender productos o servicios. Esto incluye estrategias y tácticas de mercadotecnia, demostración del producto, técnicas de ventas, y sistemas de control de ventas.
+2.C.1.e	Servicio personal al cliente	Conocimiento de principios y procesos para proporcionar al cliente con servicios personales. Esto incluye analizar las necesidades del cliente, cumplir con las normas estándares de calidad de los servicios y evaluar la satisfacción del cliente.
+2.C.1.f	Recursos humanos y de personal	Conocimiento de principios y procedimientos para buscar, seleccionar y entrenar personal; compensación y beneficios, relaciones y negociaciones laborales, y sistemas de información sobre recursos humanos.
+2.C.10	Transporte	Conocimiento de principios y métodos para transportar a personas o productos por aire, ferrocarril, mar o caminos, incluyendo los costos relativos y los beneficios.
+2.C.2	Fabricación y producción	Conocimiento de principios y hechos relacionados con la producción, proceso, almacenamiento, y distribución de productos manufacturados y agrícolas.
+2.C.2.a	Producción y procesamiento	Conocimiento de materias primas, procesos de producción, control de calidad, costos, y otras técnicas para máximizar la producción y distribución efectiva de productos.
+2.C.2.b	Producción de alimentos	Conocimiento de técnicas y de equipo para plantar, crecer, y cosechar productos alimenticios (vegetal y animal) para el consumo, incluyendo técnicas de almacenamiento/manejo.
+2.C.3	Ingeniería y tecnología	Conocimiento de diseño, desarrollo, y aplicación de tecnología con propósitos específicos.
+2.C.3.a	Computadoras y electrónicos	Conocimiento de tableros de circuito, procesadores, chips, equipo electrónico, hardware y software, incluyendo aplicaciones y programación.
+2.C.3.b	Ingeniería y tecnología	Conocimiento sobre como aplicar prácticamente conceptos de ingeniería y tecnología. Esto incluye aplicar principios, técnicas, procedimientos, y equipo al diseño y producción de diferentes productos y servicios.
+2.C.3.c	Diseño	Conocimiento de técnicas de diseño, herramientas, y principios que se utilizan en la producción de planes técnicos de precisión, planos, dibujos, y modelos.
+2.C.3.d	Construcción	Conocimiento de materiales, métodos y herramientas que se utilizan para construir o reparar casas, edificios, u otras estructuras tales como carreteras y caminos.
+2.C.3.e	Mecánica	Conocimiento de máquinas y herramientas, incluyendo sus diseños, usos, reparación y mantenimiento.
+2.C.4	Matemáticas y ciencia	Conocimiento de la historia, teorías, métodos y aplicaciones de las ciencias físicas, biológicas, sociales, matemáticas y geográficas.
+2.C.4.a	Matemáticas	Conocimiento de aritmética, álgebra, geometría, cálculo, estadística y de sus aplicaciones.
+2.C.4.b	Física	Conocimiento y predicción de principios físicos, leyes, sus interrelaciones y aplicaciones para entender las dinámicas de fluido, materiales y atmosféricas, y estructuras y procesos mecánicos, eléctricos, atómicos y sub-atómicos.
+2.C.4.c	Química	Conocimiento de la composición química, estructura y propiedades de substancias y de procesos químicos y de las transformaciones que estos sufren. Esto incluye el uso de químicos y sus interacciones, signos de peligro, técnicas de producción y eliminación de desperdicios.
+2.C.4.d	Biología	Conocimiento de plantas y organismos animales, sus tejidos, células, funciones, interdependencias e interacciones entre sí y el medio ambiente.
+2.C.4.e	Psicología	Conocimiento de la conducta y el desempeño humanos; diferencias individuales respecto a la aptitud, personalidad e intereses; aprendizaje y motivación; métodos de investigación psicológica; evaluación y tratamiento de desórdenes afectivos y del comportamiento.
+2.C.4.f	Sociología y antropología	Conocimiento de la conducta y dinámicas de grupo, tendencias e influencias sociales, migraciones humanas, etnia, orígenes e historia de las culturas.
+2.C.4.g	Geografía	Conocimiento de principios y métodos para describir las características de la tierra, del mar y de las masas de aire, incluyendo sus características físicas, ubicaciones, interrelaciones y distribución de la vida vegetal, animal y humana.
+2.C.5	Servicios de salud	Conocimiento de principios y hechos respecto al diagnóstico, cura y prevención de enfermedades así como también de como mejorar y preservar la salud y el bienestar físico y mental.
+2.C.5.a	Medicina y odontología	Conocimiento de la información y técnicas que se necesitan para diagnosticar y tratar lesiones humanas, enfermedades y deformidades. Esto incluye síntomas, tratamientos alternativos, propiedades e interacciones de los medicamentos y medidas preventivas para el cuidado de la salud.
+2.C.5.b	Terapia y orientación	Conocimiento de principios, métodos y procedimientos para el diagnóstico, tratamiento, y rehabilitación de trastornos físicos y mentales, así como también de orientación y consejería vocacional.
+2.C.6	Educación y entrenamiento	Conocimiento de principios y métodos para el diseño de programas de entrenamiento, enseñanza e instrucción ya sea individuales o en grupo, y la evaluación de la efectividad del entrenamiento.
+2.C.7	Artes y humanidades	Conocimiento de hechos y principios relacionados con las ramas de aprendizaje dedicadas al pensamiento humano, idioma, y las artes.
+2.C.7.a	Idioma inglés	Conocimiento de la estructura y contenido del idioma inglés, incluyendo el significado y la ortografía de las palabras, reglas de redacción y gramática.
+2.C.7.b	Idioma extranjero	Conocimiento de la estructura y contenido de un idioma extranjero (otro que el inglés) incluyendo el significado y la ortografía de las palabras, reglas de redacción, gramática y pronunciación.
+2.C.7.c	Bellas artes	Conocimiento de la teoría y técnicas que se requieren para componer, producir y realizar trabajos de música, danza, artes visuales, teatro y escultura.
+2.C.7.d	Historia y arqueología	Conocimiento de sucesos históricos y sus causas, sus indicadores y sus efectos en las civilizaciones y culturas.
+2.C.7.e	Filosofía y teología	Conocimiento de diferentes sistemas filosóficos y religiones. Esto incluye sus principios básicos, valores, ética, maneras de pensar, costumbres, prácticas y su impacto en la cultura humana.
+2.C.8	Ley y seguridad pública	Conocimiento de regulaciones y métodos para mantener a las personas y la propiedad libres de peligro, lesión, o daño; las reglas de conducta pública establecidas e impuestas por la legislación y el proceso político que establece tales reglas.
+2.C.8.a	Seguridad pública	Conocimiento de equipo, regulaciones, procedimientos y estrategias importantes para promover eficazmente las operaciones de seguridad a nivel local, del estado/provincia/departamento, o nacional para la protección de las personas, la información, la propiedad y las instituciones.
+2.C.8.b	Ley y gobierno	Conocimiento de leyes, códigos legales, procedimientos judiciales, jurisprudencia, regulaciones gubernamentales, órdenes del poder ejecutivo, reglas de dependencias gubernamentales o ministerios, y el proceso político democrático.
+2.C.9	Comunicaciones	Conocimiento sobre la ciencia y el arte de diseminar información.
+2.C.9.a	Telecomunicaciones	Conocimiento respecto a la transmisión, radio difusión, interruptores, control y funcionamiento de los sistemas de telecomunicaciones.
+2.C.9.b	Comunicaciones y medios de comunicación	Conocimiento de la producción de los medios de comunicación, comunicaciones y técnicas y métodos de diseminación. Esto incluye formas alternativas para informar y entretener por escrito, oral y visualmente.
+2.D	Educación	Se requiere de educación formal para realizar un trabajo.
+2.D.1	Nivel requerido de educación	El nivel de educación requerido para realizar un trabajo.
+2.D.3	Nivel de educación en temas específicos	El grado de educación requerido en 15 áreas de estudio para realizar un trabajo. Las áreas de estudio cubren la mayoría de los cursos que se estudian en la escuela preparatoria o secundaria, instituciones de formación profesional, programas universitarios y otros programas de educación y entrenamiento.
+3	Requisitos de la experiencia	Requisitos de la experiencia
+3.A	Experiencia y entrenamiento	¿Si se contratara a alguien para realizar este trabajo, que tanto se le pediría de lo siguiente?
+3.A.1	Experiencia laboral afin	¿Se requiere cierto tiempo de experiencia laboral similar, para ser contratado para el trabajo?
+3.A.2	Entrenamiento en el lugar o en la planta	¿Cuanto tiempo de entrenamiento en el puesto en el  lugar de trabajo (por ejemplo, clases organizadas en salones de instrucción) que se requiere para realizar el trabajo?
+3.A.3	Entrenamiento en el trabajo	¿Se requiere tiempo de entrenamiento en el trabajo para realizar el trabajo?
+3.A.4	Aprendizaje	¿Se requiere tiempo de aprendizaje para realizar el trabajo?
+3.B	Habilidades básicas - requisito de admisión	Requisito de admisión para desarrollar capacidades que faciliten el aprendizaje o la adquisición más rápida del conocimiento.
+3.B.1	Contenido - requisito de admisión	Requisito de admisión de estructuras de formación que se necesitan para trabajar y adquirir más destrezas específicas en una variedad de campos.
+3.B.2	Proceso - requisito de admisión	Requisito de admisión para procedimientos que contribuyen a una adquisición más rápida del conocimiento y destreza en una variedad de campos.
+3.C	Flexibilidad en el uso de habilidades-requisito de admisión	Requisito de admisión para desarrollar capacidades que faciliten el desempeño de actividades que se sucitan en los trabajos.
+3.C.1	Habilidades sociales - requisito de admisión	Requisito de admisión para capacidades desarrolladas para trabajar con personas y alcanzar metas.
+3.C.2	Destrezas para resolver problemas complejos  - requisitos de admisión	Requisitos de admisión para capacidades desarrolladas para resolver problemas novedosos y poco definidos en situaciones reales complejas.
+3.C.3	Destrezas técnicas - requisitos de admisión	Requisitos de admisión para capacidades desarrolladas para diseñar, crear, operar y corregir el mal funcionamiento de máquinas o aplicaciones de tecnología.
+3.C.4	Destrezas de sistemas - requisitos de admisión	Requisitos de admisión para capacidades desarrolladas para entender, supervisar, y mejorar los sistemas socio-técnicos.
+3.C.5	Destrezas de manejo de recursos - requisitos de admisión	Requisitos de admisión para capacidades desarrolladas para asignar los recursos eficientemente.
+3.D	Cualificación	Licencias, certificados, o registros que se otorgan para mostrar que el titular de un trabajo ha obtenido ciertas destrezas. Incluye los requisitos para obtener estos documentos y la organización o agencia que requieren su posesión.
+3.D.2	Licencia específica o certificado requerido	Educación específica, entrenamiento, examen u otros requisitos para obtener las licencias, certificados o registros que se necesitan para realizar este trabajo.
+3.D.5	Organización y requisitos de la agencia	Organizaciones o agencias requieren licencias específicas, certificados o registros que se necesitan para realizar un trabajo.
+4	Requisitos profesionales	Requisitos profesionales
+4.A	Actividades generales del trabajo	Tipos generales de conductas de trabajo que ocurren en múltiples empleos.
+4.A.1	Entrada de datos	¿Dónde y cómo se obtienen la información y los datos que se necesitan para realizar este trabajo?
+4.A.1.a	Buscar y recibir información relacionada con el trabajo	¿Cómo se obtiene la información para realizar este trabajo?
+4.A.1.a.1	Obtener información	Observar, recibir, y por otra parte obtener información de todas las fuentes principales.
+4.A.1.a.2	Supervisar procesos, materiales o entornos	Supervisar y revisar la información de los materiales, eventos o el medio ambiente para detectar o evaluar los problemas.
+4.A.1.b	Identificar y evaluar la información relevante del trabajo	¿Cómo se interpreta la información para realizar este trabajo?
+4.A.1.b.1	Identificar objetos, acciones y eventos	Identificar información a través de la categorización, estimación, reconocimiento de diferencias o similitudes y detectar cambios en circunstancias o eventos.
+4.A.1.b.2	Inspeccionar el equipo, estructuras o material	Inspeccionar el equipo, estructuras o materiales para identificar la causa de los errores u otros problemas o defectos.
+4.A.1.b.3	Calcular las características cuantificables de los productos, eventos o información	Calcular tamaños, distancias y cantidades; o determinar el tiempo, costos, recursos o materiales que se necesitan para realizar una actividad de trabajo.
+4.A.2	Procesos mentales	¿Qué actividades de procesamiento, planeación, solución de problemas, toma de decisiones e innovación se realizan con la información relacionada al trabajo?
+4.A.2.a	Información y proceso de datos	¿Cómo se procesa la información para realizar este trabajo?
+4.A.2.a.1	Evaluar la calidad de objetos, servicios o personas	Evaluar el valor, importancia o calidad de objetos o personas.
+4.A.2.a.2	Procesamiento de información	Recopilar, codificar, clasificar, calcular, tabular, auditar o verificar la información o los datos.
+4.A.2.a.3	Evaluar la información para determinar su conformidad con las normas	Utilizar la información relevante y juicio personal para determinar si los eventos o procesos cumplen con las leyes, regulaciones o normas.
+4.A.2.a.4	Analizar datos o información	Identificar la base de los principios, razones o hechos de donde proviene la información, diviendo la información o los datos en sus diferentes componentes.
+4.A.2.b	Razonamiento y toma de decisiones	¿Qué decisiones se toman y que problemas se resuelven mientras se realiza este trabajo?
+4.A.2.b.1	Toma de decisiones y solución de problemas	Analizar la información y evaluar resultados para elegir la mejor solución y resolver los problemas.
+4.A.2.b.2	Pensamiento creativo	Desarrollar, diseñar o crear nuevas aplicaciones, ideas, relaciones, sistemas o productos, incluyendo contribuciones artísticas.
+4.A.2.b.3	Actualización y utilización de conocimiento pertinente	Estar actualizado técnicamente y aplicar nuevos conocimientos a su trabajo.
+4.A.2.b.4	Desarrollar objetivos y estrategias	Establecer objetivos a largo plazo y especificar las estrategias y acciones para alcanzarlos.
+4.A.2.b.5	Fijar el horario de trabajo y  actividades	Programar eventos, programas y actividades, así como el trabajo de otros.
+4.A.2.b.6	Organizar, planear, y priorizar el trabajo	Desarrollar metas y planes específicos para dar prioridad, organizar, y cumplir con su trabajo.
+4.A.3	Rendimiento en el trabajo	¿Qué actividades físicas se realizan, qué equipo y vehículos se operan/controlan, y qué actividades complejas/técnicas se llevan a cabo como medidas de rendimiento en el trabajo?
+4.A.3.a	Desarrollar actividades físicas y manuales en el trabajo	¿Qué actividades en este trabajo requieren el uso del cuerpo y las manos?
+4.A.3.a.1	Desarrollar actividades físicas en general	Desarrollar actividades físicas que requieren el uso considerable de brazos y piernas y mover el cuerpo entero, por ejemplo subir, levantar, equilibrar, caminar, detener y manejar materiales.
+4.A.3.a.2	Manejar y mover objetos	Usar las manos y brazos para manejar, instalar, colocar y mover materiales y manipular cosas.
+4.A.3.a.3	Controlar máquinas y procesos	Utilizar ciertos mecanismos o actividad física directa para operar máquinas o procesos (no incluye computadoras o vehículos).
+4.A.3.a.4	Manejar vehículos, aparatos motorizados o equipo	Correr, maniobrar, navegar o manejar vehículos o equipo motorizado, tales como elevadores de carga, vehículos de pasajeros, aviones, o embarcaciones.
+4.A.3.b	Realizar actividades complejas y técnicas	¿Qué tipo de actividades especializadas que requieren del uso de movimientos coordinados son necesarias para realizar este trabajo?
+4.A.3.b.1	Trabajar con computadoras	Utilizar computadoras y sistemas computacionales (incluyendo hardware y software) para programar, crear software, establecer funciones, introducir datos o procesar información.
+4.A.3.b.2	Delinear, diseñar y especificar aparatos técnicos, partes y equipo	Proporcionar documentación, instrucciones detalladas, dibujos o especificaciones para informar a otros respecto a cómo se fabricarán, construirán, ensamblarán, modificarán, mantendrán o usarán los aparatos, partes, equipo o estructuras.
+4.A.3.b.4	Reparar y mantener equipo mecánico	Dar servicio, reparar, ajustar y probar las máquinas, aparatos, partes movibles y equipo que operan principalmente en base a principios mecánicos (no electrónicos).
+4.A.3.b.5	Reparar y mantener equipo electrónico	Dar servicio, reparar, calibrar, regular, ajustar o probar las máquinas, aparatos y equipo que opera principalmente en base a principios eléctricos o electrónicos (no mecánicos).
+4.A.3.b.6	Documentar/registrar información	Introducir, transcribir, registrar, almacenar o mantener la información por escrito o en forma  electrónica/magnética.
+4.A.4	Interactuar con otros	¿Qué tipo de interacciones con otras personas o actividades de supervisión se sucitan cuando se realiza este trabajo?
+4.A.4.a	Comunicación e interacción	¿Qué tipo de interacciones con otras personas se sucitan cuando se realiza este trabajo?
+4.A.4.a.1	Interpretar el significado de la información para otros	Traducir o explicar lo que significa la información y cómo puede utilizarse.
+4.A.4.a.2	Comunicación con Supervisores, Compañeros o Subordinados	Proporcionar información a supervisores, compañeros y subordinados por teléfono, por escrito, por correo electrónico o personalmente.
+4.A.4.a.3	Comunicación con personas fuera de la organización	Comunicación con personas fuera de la organización, representar a la organización frente a los clientes, el público, gobierno y otras fuentes externas. Esta información puede comunicarse personalmente, por escrito, por teléfono o por correo electrónico.
+4.A.4.a.4	Establecer y mantener relaciones interpersonales	Desarrollar relaciones de trabajo constructivas y cooperativas con otros, y mantenerlas a lo largo del tiempo.
+4.A.4.a.5	Ayudar y cuidar a otros	Proporcionar ayuda personal, atención médica, apoyo emocional u otros cuidados personales a otros, tales como compañeros, clientes o pacientes.
+4.A.4.a.6	Vender algo o influenciar a otros	Convencer a otros para comprar mercancía/servicios, o hacer que cambien su forma de pensar o sus acciones.
+4.A.4.a.7	Resolver conflictos y negociar con otros	Manejar quejas, resolver disputas y resolver agravios y conflictos o también negociar con otros.
+4.A.4.a.8	Trabajar directamente con el público	Desempeñarse delante de otras personas o tratar directamente con el público. Esto incluye atender a los clientes en restaurantes y tiendas, y recibir clientes o invitados.
+4.A.4.b	Coordinar, desarrollar, manejar y aconsejar	¿Qué tipo de actividades de coordinación, administrativas o de asesoría se hacen mientras se realiza este trabajo?
+4.A.4.b.1	Coordinar el trabajo y las actividades de otros	Reunir a los miembros de un grupo para trabajar juntos y realizar las labores necesarias.
+4.A.4.b.2	Desarrollar y formar equipos de trabajo	Fomentar y construir la confianza mutua, respeto y cooperación entre los miembros del equipo.
+4.A.4.b.3	Entrenar y enseñar a otros	Identificar las necesidades educativas de otros, desarrollar programas de educación formal, de entrenamiento o clases, y enseñar o instruir a otros.
+4.A.4.b.4	Guiar, dirigir y motivar a los subordinados	Proporcionar orientación y dirección a los subordinados.  Se incluye supervisar su desempeño y establecer estándares de rendimiento apropiado.
+4.A.4.b.5	Entrenar y desarrollar a otros	Identificar las necesidades de desarrollo de otros y entrenar, instruir, y por otra parte, ayudar a otros a aumentar sus conocimientos y mejorar sus habilidades.
+4.A.4.b.6	Proporcionar consulta y asesoramiento a otros	Proporcionar orientación y consejo profesional a la administración/gerencia o a otros grupos sobre sistemas técnicos o sobre procesos relacionados con el tema.
+4.A.4.c	Administración	¿Qué actividades administrativas, de personal, supervisión, o de control se hacen mientras se realiza este trabajo?
+4.A.4.c.1	Realizar actividades administrativas	Realizar las tareas administrativas diarias, tales como mantener la información en archivos al día y procesar el papeleo.
+4.A.4.c.2	Proveer de personal a las diferentes unidades en la organización	Reclutar, entrevistar, seleccionar, contratar y promover a los empleados en una organización.
+4.A.4.c.3	Supervisar y controlar los recursos	Supervisar y controlar los recursos y vigilar el gasto del dinero.
+4.B	Contexto organizacional	Características de la organización que influyen en la forma en que las personas hacen su trabajo.
+4.B.1	Características estructurales	Un subsistema funcional de una estructura organizacional, que incluye conceptos tales como (a) estructura organizacional, y (b) sistemas y prácticas de recursos humanos.
+4.B.1.a	Estructura organizacional	La arquitectura o anatomía de una organización afecta al comportamiento de los miembros de la organización, así como su habilidad para adaptarse eficazmente a su medio ambiente. Los elementos de la estructura organizacional incluyen la jerarquía de la organización, el grado de centralización, y la naturaleza de los grupos de trabajo que se utilizan para lograr los objetivos organizacionales.
+4.B.1.a.1	Sistema para toma de decisiones	El grado de autonomía y participación que los empleados tengan en la toma de decisiones.
+4.B.1.a.1.a	Descentralización y autorización al empleado	Indica el grado de información y participación que se le otorga a los empleados para la  toma de decisiones.
+4.B.1.a.1.b	Estructura individual frente a la estructura de grupo	Identifica hasta que punto los empleados trabajan exclusivamente en equipo o no.
+4.B.1.a.2	Características del trabajo	Indica el nivel de variedad de habilidades, importancia de la labor, identificación con la labor, autonomía y evaluación periódica que se provee en este trabajo.
+4.B.1.a.2.a	Variedad de destrezas	Las distintas destrezas que se requieren que las personas posean para desarrollar este trabajo.
+4.B.1.a.2.b	Importancia de la labor	La importancia o significado de las labores que se realizan en este trabajo de acuerdo a sus efectos en las vidas o en el bienestar de otros.
+4.B.1.a.2.c	Identidad de la labor	Hasta que punto se puede percibir que las labores realizadas en este trabajo contribuyen al producto final.
+4.B.1.a.2.d	Autonomía	El grado de libertad en el trabajo reflejado a través del nivel de iniciativa personal y criterio propio que una persona tiene al momento de desempeñar una labor.
+4.B.1.a.2.e	Retroalimentación	Hasta que punto este trabajo proporciona información respecto a que tan bien uno se está desempeñando.
+4.B.1.a.3	Estabilidad en el trabajo y rotación	El grado de estabilidad y de rotación en el trabajo.
+4.B.1.b	Sistemas y prácticas de recursos humanos	Las prácticas y procedimientos organizacionales diseñados para asegurar que una organización tenga empleados que son capaces de cumplir con sus metas.
+4.B.1.b.1	Reclutamiento y selección	Las prácticas organizacionales, decisiones, y procesos que afectan (a) la capacidad de una organización para contratar, promover, y otras decisiones del personal, y (b) el número o tipos de individuos que desean solicitar o aceptar una vacante determinada.
+4.B.1.b.1.a	Operaciones de reclutamiento	Actividades involucradas en la implementación de planes para la búsqueda de personal (por ejemplo, selección de fuentes de información, demostraciones del trabajo tal y como es).
+4.B.1.b.1.b	Métodos utilizados para la selección	Los métodos utilizados para seleccionar o promover empleados.
+4.B.1.b.2	Entrenamiento y desarrollo	La adquisición sistemática de actitudes, conceptos, conocimiento, funciones, o habilidades que resultan en el mejoramiento del desempeño en el trabajo.
+4.B.1.b.2.a	Métodos de entrenamiento	Los métodos que se utilizan en los programas de entrenamiento.
+4.B.1.b.2.b	Temas de entrenamiento y contenido	Lo que los entrenadores pretenden enseñar a las personas que están en entrenamiento a través de programas de entrenamiento.
+4.B.1.b.2.c	La importancia y apoyo de las actividades de entrenamiento	Hasta que punto una organización facilita el entrenamiento a sus empleados y proporciona apoyo financiero para actividades de entrenamiento.
+4.B.1.b.3	Sistema de compensación	Compensación monetaria y beneficios monetarios y no monetarios que las organizaciones proporcionan a sus empleados.
+4.B.1.b.3.a	Bases de la compensación	Hasta que punto las organizaciones premian a los individuos en base a: (a) su conocimiento, destrezas, y desempeño, (b) antigüedad, (c) desempeño en equipo, (d) desempeño organizacional, y (e) atributos del trabajo.
+4.B.1.b.3.b	Beneficios	Hasta que punto la compensación de los empleados incluye beneficios como pensiones, seguro, ausencia temporal con goce de sueldo, premios y bonos, pago por tiempo no laborado, etc.
+4.B.2	Procesos sociales	Un subsistema funcional de estructura organizacional que incluye procesos que relacionan a las personas (empleados) con su trabajo y entre ellas mismas, y elementos tales como valores, metas, liderazgo y roles.
+4.B.2.a	Metas	Establecer metas individuales.
+4.B.2.a.1	Características de la metas individuales	Hasta que punto se indica explícitamente la meta de un individuo, y la probabilidad de que se pueda alcanzar dicha meta.
+4.B.2.a.2	Retroalimentación respecto a la meta	Hasta que punto se le da a un individuo una evaluación periódica de su progreso hacia una meta.
+4.B.2.b	Roles	Características de los diferentes roles o papeles que desempeñan los empleados en la organización tales como el grado de conflicto entre funciones o el nivel excesivo de responsabilidad (carga excesiva) que representa el desempeño de diferente funciones para el empleado.
+4.B.2.b.1	Conflicto de roles	Hasta que punto un individuo tiene que enfrentar funciones conflictivas dentro del mismo trabajo.
+4.B.2.b.2	Negociación de roles	Hasta que punto un individuo puede negociar el papel que desempeña en una organización.
+4.B.2.b.3	Exceso del rol	La diferencia entre las demandas del trabajo y la habilidad de uno para cumplir esas demandas.
+4.B.2.c	Cultura	Patrones de conducta y relaciones sociales que indican las suposiciones, valores, normas y artefactos que comparten los miembros de la organización.
+4.B.2.c.1	Valores organizacionales	Indican la importancia de los diferentes valores organizacionales, tales como la tradición, estabilidad, innovación y colaboración.
+4.B.2.c.1.a	Principios que orientan a la organización	Qué tan importantes son cada uno de los siguientes conceptos o valores como guías para orientar la dirección en que se dirige su compañía.
+4.B.2.d	Rol de supervisión	La naturaleza del liderazgo de supervisión.
+4.C	Contexto del trabajo	Factores físicos y sociales que influyen en la naturaleza del trabajo.
+4.C.1	Relaciones interpersonales	Esta categoría describe el contexto del trabajo en términos de los procesos de la interacción humana.
+4.C.1.a	Comunicación	Tipos y frecuencia de las interacciones que se requieren con otras personas como parte de este trabajo.
+4.C.1.a.2	Métodos de comunicación	¿Con qué frecuencia este trabajo requiere el uso de los siguientes métodos de comunicación?
+4.C.1.a.2.c	Hablar en público	¿Con qué frecuencia se tiene que hablar en público en este trabajo?
+4.C.1.a.2.f	Teléfono	¿Con qué frecuencia se tienen conversaciones telefónicas en este trabajo?
+4.C.1.a.2.h	Correo electrónico	¿Con qué frecuencia se utiliza el correo electrónico en este trabajo?
+4.C.1.a.2.j	Cartas y memorándums	¿Con qué frecuencia este trabajo requiere de cartas por escrito y memorándums?
+4.C.1.a.2.l	Diálogos frente a frente	¿Con qué frecuencia se tienen diálogos frente a frente con individuos o equipos en este trabajo?
+4.C.1.a.4	Contacto con otros	¿Qué tanto se requiere que el trabajador esté en contacto con otros (frente a frente, por teléfono o alguna otra forma) para realizar este trabajo?
+4.C.1.b	Roles de relación	Importancia de los diferentes tipos de interacciones con otros, tanto dentro como fuera de la organización.
+4.C.1.b.1	Interacciones del trabajo	Qué tan importantes son las interacciones que requiere que el trabajador:
+4.C.1.b.1.e	Trabajar con grupos de trabajo o en equipo	¿Qué tan importante es trabajar con otros en grupo o en equipo en este trabajo?
+4.C.1.b.1.f	Tratar con clientes externos	¿Qué tan importante es trabajar con clientes externos o con el público en este trabajo?
+4.C.1.b.1.g	Coordinar o guiar a otros	¿Qué tan importante es coordinar o guiar a otros para que cumplan con sus actividades de trabajo, en este trabajo?
+4.C.1.c	Responsabilidad de otros	Grado de responsabilidad que el trabajador tiene respecto a otros trabajadores, como parte de este trabajo.
+4.C.1.c.1	Responsabilidad de la salud y seguridad de otros	¿Qué tanta responsabilidad existe en este trabajo, respecto a la salud y seguridad de otros?
+4.C.1.c.2	Responsabilidad de las consecuencias y resultados	¿Qué tan responsable es el trabajador para lidiar con los resultados y las consecuencias del trabajo de otros trabajadores?
+4.C.1.d	Conflicto	Grado de conflicto que el trabajador encontrará como parte de este trabajo
+4.C.1.d.1	Frecuencia de Situaciones de Conflicto	¿Con qué frecuencia se dan en este trabajo situaciones conflictivas que el empleado tiene que enfrentar?
+4.C.1.d.2	Tratar con personas desagradables o enojadas	¿Con qué frecuencia el trabajador tiene que tratar con individuos desagradables, enojados o descorteses como parte de los requisitos de trabajo?
+4.C.1.d.3	Tratar con personas físicamente agresivas	¿Con qué frecuencia este trabajo requiere que el trabajador trate con individuos físicamente agresivos o violentos?
+4.C.2	Condiciones físicas del trabajo	Esta categoría describe el contexto del trabajo en cuanto a la interacción entre el trabajador y el medio ambiente físico del trabajo.
+4.C.2.a	Entorno del trabajo	Descripción del contorno físico al cual el trabajador estará expuesto como parte de este trabajo.
+4.C.2.a.1	Frecuencia que se requiere para trabajar	Con qué frecuencia requiere este trabajo que el trabajador labore:
+4.C.2.a.1.a	Area interior, medio ambiente controlado	¿Con qué frecuencia requiere este trabajo que se labore en áreas interiores bajo un medio ambiente controlado?
+4.C.2.a.1.b	Area interior, medio ambiente no controlado	¿Con qué frecuencia requiere este trabajo que se labore dentro de un edificio, en condiciones de un medio ambiente no controlado (e.g. almacén o depósito sin calefacción)?
+4.C.2.a.1.c	Al aire libre, expuesto a variaciones climáticas	¿Con qué frecuencia requiere este trabajo laborar al aire libre, expuesto a los elementos climáticos?
+4.C.2.a.1.d	Al aire libre, bajo techo	¿Con qué frecuencia requiere este trabajo que se labore al aire libre, pero bajo techo (e.g. estructura con techo pero sin paredes)?
+4.C.2.a.1.e	En un vehículo o equipo abierto	¿Con qué frecuencia este trabajo requiere que se labore en un vehículo o equipo abierto (e.g. tractor)?
+4.C.2.a.1.f	En un vehículo o equipo cerrado	¿Con qué frecuencia requiere este trabajo que se labore en un vehículo o equipo cerrado (e.g. automóvil)?
+4.C.2.a.3	Proximidad física	¿Hasta qué punto este trabajo requiere que el trabajador realice labores de trabajo en una proximidad física cercana a otras personas?
+4.C.2.b	Condiciones del medio ambiente	Descripción de las condiciones extremas del medio ambiente en las que el trabajador será colocado como parte de este trabajo.
+4.C.2.b.1	Frecuencia en las condiciones del medio ambiente	Durante un periodo normal de trabajo, con qué frecuencia está el trabajador expuesto a las siguientes condiciones:
+4.C.2.b.1.a	Sonidos, niveles de ruido son distrayentes o incómodos	¿Con qué frecuencia este trabajo requiere que se labore expuesto a sonidos y niveles de ruido que son distrayentes e incómodos?
+4.C.2.b.1.b	Temperaturas muy calientes o frías	¿Con qué frecuencia requiere este trabajo que se labore bajo temperaturas muy calientes (por arriba de los 90 grados F) o muy frías (por debajo de los 32 grados F)?
+4.C.2.b.1.c	Demasiada Iluminación o luz inadecuada	¿Con qué frecuencia requiere este trabajo que se labore bajo una luz inadecuada o demasiado brillante?
+4.C.2.b.1.d	Exposición a contaminantes	¿Con qué frecuencia requiere este trabajo exponerse a contaminantes (tales como agentes contaminantes, gases, polvo u olores)?
+4.C.2.b.1.e	Trabajar en un lugar muy estrecho, en posiciones incómodas	¿Con qué frecuencia requiere este trabajo que se labore en espacios estrechos donde hay que estar en posiciones incomodas?
+4.C.2.b.1.f	Exposición a la vibración completa del cuerpo	¿Con qué frecuencia se requiere en este trabajo estar expuesto a la vibración completa del cuerpo (e.g. manejar un martillo perforador)?
+4.C.2.c	Riesgos de trabajo	Descripciones de los tipos de condiciones de riesgo a los que el trabajador podría estar expuesto, como parte de este trabajo. Esto incluye la frecuencia con la que está expuesto y la probabilidad y grado de lesión si se expone.
+4.C.2.c.1	Frecuencia con la que se está expuesto a riesgos de trabajo	¿Con qué frecuencia requiere este trabajo que el trabajador esté expuesto a los siguientes riesgos?
+4.C.2.c.1.a	Exposición a la radiación	¿Con qué frecuencia requiere este trabajo estar expuesto a la radiación?
+4.C.2.c.1.b	Exposición a enfermedades o infecciones	¿Con qué frecuencia requiere este trabajo estar expuesto a enfermedades/infecciones?
+4.C.2.c.1.c	Exposición a lugares altos	¿Con qué frecuencia requiere este trabajo estar expuesto a lugares altos?
+4.C.2.c.1.d	Exposición a condiciones de peligro	¿Con qué frecuencia requiere este trabajo estar expuesto a condiciones peligrosas?
+4.C.2.c.1.e	Exposición a equipo peligroso	¿Con qué frecuencia requiere este trabajo estar expuesto a equipo peligroso?
+4.C.2.c.1.f	Exposición a quemaduras leves, cortadas, mordeduras o picaduras	¿Con qué frecuencia requiere este trabajo estar expuesto a quemaduras leves, cortaduras, mordeduras o picaduras?
+4.C.2.c.2	La probabilidad de lesionarse por riesgos de trabajo	¿Cuál es la probabilidad de que el trabajador se lesione por estar expuesto a los siguientes riesgos mientras realiza este trabajo?
+4.C.2.c.3	Grado de lesión	¿Si se lesiona debido a la exposición a los siguientes riesgos que pueden ocurrir mientras se realiza este trabajo, qué tan serio sería el resultado?
+4.C.2.d	Posición del cuerpo	Cuanto tiempo pasará el trabajador en diferentes posiciones físicas en este trabajo.
+4.C.2.d.1	Tiempo que pasa el cuerpo en posiciones	Cuánto tiempo pasa un trabajador en un periodo normal de trabajo:
+4.C.2.d.1.a	Tiempo que pasa sentado	¿Cuánto tiempo se requiere estar sentado en este trabajo?
+4.C.2.d.1.b	Tiempo que pasa de pie	¿Por cuánto tiempo se requiere estar de pie en este trabajo?
+4.C.2.d.1.c	Tiempo que pasa subiendo escaleras, andamios o postes	¿Por cuánto tiempo requiere este trabajo subir escaleras, andamios o postes?
+4.C.2.d.1.d	Tiempo que pasa caminando y corriendo	¿Por cuánto tiempo requiere este trabajo caminar y correr?
+4.C.2.d.1.e	Tiempo que pasa arrodillándose, agachándose, inclinándose o arrastrándose	¿Por cuánto tiempo requiere este trabajo estar arrodillado, agachado, inclinado o arrastrarse?
+4.C.2.d.1.f	Tiempo que pasa manteniendo o recuperando el equilibrio	¿Por cuánto tiempo requiere este trabajo mantener o recuperar el equilibrio?
+4.C.2.d.1.g	Tiempo que pasa utilizando las manos para manejar, controlar o tocar objetos, herramientas o controles	¿Por cuánto tiempo requiere este trabajo el usar las manos para manejar, controlar o tocar objetos, herramientas o controles?
+4.C.2.d.1.h	Tiempo que pasa flexionando o girando el cuerpo	¿Por cuánto tiempo requiere este trabajo flexionar o girar el cuerpo?
+4.C.2.d.1.i	Tiempo que pasa realizando movimientos repetitivos	¿Por cuánto tiempo requiere este trabajo realizar movimientos repetitivos?
+4.C.2.e	Atuendo o ropa de trabajo	Requisitos de ropa o atuendo de este trabajo.
+4.C.2.e.1	Frecuencia con la que se usa ropa o atuendo de trabajo	Con qué frecuencia el trabajador viste el siguiente atuendo:
+4.C.2.e.1.d	Atuendo o ropa común de protección o equipo de seguridad como zapatos de seguridad, lentes, guantes, protecciones auditivas, cascos o chaleco salvavidas	¿Por cuánto tiempo requiere este trabajo que se utilice una ropa o atuendo común de protección o equipo de seguridad como zapatos de seguridad, gafas, guantes, cascos o chalecos salvavidas?
+4.C.2.e.1.e	Usar equipo especializado de protección o de seguridad, tales como aparatos para respirar,  arnéces de seguridades, trajes de protección total o protección contra la radiación	¿Por cuánto tiempo requiere este trabajo utilizar equipo de protección especializada o de seguridad, tales como aparatos para respirar, arnéces de seguridad, trajes de protección total o protección contra la radiación?
+4.C.3	Características estructurales del trabajo	Esta categoría involucra las relaciones o interacciones entre el trabajador y las características estructurales del trabajo.
+4.C.3.a	Posición crítica	Cuanta influencia tiene el trabajador en el resultado final del producto y en las consecuencias del mismo.
+4.C.3.a.1	Consecuencia del error	¿En general qué tan seria serían las consecuencias de un error cometido por el trabajador que no pudiera corregirse rápidamente?
+4.C.3.a.2	Impacto de las decisiones	La frecuencia y naturaleza del impacto de las decisiones del trabajador en la organización.
+4.C.3.a.2.a	Impacto de las decisiones en los compañeros de trabajo o en los resultados de la compañía	¿Cómo impactan las decisiones de un empleado el desempeño de sus compañeros de trabajo, clientes o de la compañía?
+4.C.3.a.2.b	Frecuencia de la toma de decisiones	¿Con qué frecuencia se requiere que el trabajador tome decisiones que afectan a otras personas, a los recursos financieros, y/o a la imagen y reputación de la organización?
+4.C.3.a.4	Libertad para tomar decisiones	¿Cuánta libertad para tomar decisiones sin supervisión ofrece este trabajo?
+4.C.3.b	Rutina en oposición a los retos del trabajo	La cantidad de tiempo que el trabajador dedicará a trabajo rutinario comparado con la cantidad de tiempo que dedicará a trabajo que representa un desafío.
+4.C.3.b.2	Grado de automatización	¿Qué tan automatizado es el trabajo?
+4.C.3.b.4	Importancia de ser exacto o preciso	¿Qué tan importante es ser muy exacto o muy preciso para realizar este trabajo?
+4.C.3.b.7	Importancia de repetir las mismas labores	¿Qué tan importante es repetir las mismas actividades físicas (e.g. ingreso de datos) o actividades mentales (e.g. verificar las entradas del libro de contabilidad) una y otra vez sin parar, al realizar este trabajo?
+4.C.3.b.8	Trabajo con estructura frente a otro sin estructura	¿Hasta qué punto este trabajo ya está estructurado para el trabajador, en lugar de permitirle determinar labores, prioridades y metas?
+4.C.3.c	Competencia	Grado de competencia que el trabajador enfrentará como parte de este trabajo.
+4.C.3.c.1	Nivel de competencia	¿Hasta qué punto este trabajo requiere que el trabajador compita o sea consciente de las presiones competitivas que existen?
+4.C.3.d	Ritmo y planeación	Descripción del papel que desempeña el tiempo en la manera en que el trabajador realiza las labores requeridas por este trabajo.
+4.C.3.d.1	Presión del tiempo	¿Con qué frecuencia este trabajo requiere que el trabajador cumpla con fechas límites para el cumplimiento de deberes?
+4.C.3.d.3	Ritmo determinado por la rapidez del equipo	¿Qué tan importante es  la rapidez del equipo o maquinaria para determinar el ritmo de trabajo? (Esto no se refiere a estar ocupado todo el tiempo en este trabajo.)
+4.C.3.d.4	Horarios de trabajo	¿Qué tan regulares son los horarios de trabajo?
+4.C.3.d.8	Duración de una semana típica de trabajo	Número de horas que se trabajan típicamente en una semana.
+5.	Información específica de la profesión	Información específica de la profesión.
+5.A	Labores	Labores específicas de la profesión.
+5.A.1 (1 to X)	Lista de labores	Lista de labores para cada profesión.
+6	Características del mercado laboral	Características del mercado laboral.
+6.A	Información del mercado laboral	Información del mercado laboral.
+6.B	Perspectiva profesional	Perspectiva profesional.

@@ -1,0 +1,62 @@
+SCALE ID	SCALE NAME	MINIMUM	MAXIMUM
+AC	Grado de precisión	1.00	5.00
+AG	Grado de acuerdo	1.00	5.00
+AM	Grado de experiencia requerido	0.00	10.00
+AN	Grado de responsabilidad 	1.00	7.00
+AO	Grado de automatización	1.00	7.00
+AT	Frecuencia con la que se requiere ropa de trabajo	0.00	5.00
+AU	Grado de autonomía	1.00	5.00
+AV	Frecuencia	0.00	4.00
+CA	Marque todas las respuestas que aplican	0.00	100.00
+CF	Frecuencia	0.00	4.00
+CH	Cambio	0.00	4.00
+CL	Claridad con la que se entiende el trabajo a realizar	1.00	7.00
+CM	Frecuencia	0.00	7.00
+CN	Grado de comunicación	1.00	7.00
+CO	% de seleccionados	0.00	100.00
+CY	% que sí	0.00	100.00
+DI	Gravedad de la lesión	0.00	5.00
+DY	# de días	1.00	10.00
+EN	Nivel de amplitud	1.00	5.00
+ER	Nivel de educación requerido	0.00	4.00
+ET	Nivel de amplitud	1.00	5.00
+EX	Nivel de amplitud	1.00	5.00
+FB	Grado de retroalimentación	1.00	5.00
+FC	Grado de frustración	1.00	7.00
+FG	Frecuencia	1.00	4.00
+FL	Seriedad requerida	1.00	7.00
+FM	Grado de independencia para realizar el trabajo	1.00	7.00
+FN	Frecuencia	0.00	4.00
+FR	Frecuencia	1.00	7.00
+FT	Regularidad del trabajo	1.00	7.00
+FW	Frecuencia	0.00	7.00
+GL	Constancia en los objetivos	0.00	5.00
+HS	Responsable de salud y seguridad	0.00	7.00
+IG	% en el que se cumplen los objetivos	0.00	5.00
+IH	Principal interés ocupacional	1.00	6.00
+II	Importancia	0.00	5.00
+IJ	Importancia	0.00	5.00
+IM	Importancia	1.00	5.00
+IP	Repercusión de las decisiones	1.00	7.00
+JE	% requerido para completar un trabajo	0.00	100.00
+JS	Especialidad de trabajo	0.00	100.00
+LC	Nivel de competencia	1.00	7.00
+LE	Nivel de educación requerido	1.00	12.00
+LI	Probabilidad de ser lesionado	0.00	7.00
+LV	Nivel	0.00	7.00
+NS	Número de supervisores	0.00	4.00
+OI	Intereses ocupacionales	1.00	7.00
+OS	Objetivo vs subjetivo	1.00	7.00
+PA	Privacidad en el trabajo	1.00	7.00
+PC	Parte del trabajo	1.00	5.00
+PS	Tiempo en el puesto de trabajo	0.00	5.00
+PV	Grado de privacidad en las comunicaciones	1.00	7.00
+PX	Cercanía	1.00	7.00
+RE	Grado de responsabilidad	0.00	7.00
+SG	Nivel de relevancia	1.00	5.00
+SR	Que tan serio	1.00	7.00
+ST	Que tan estructurado	1.00	7.00
+TI	% de tiempo requerido	0.00	4.00
+TM	Número de equipos	0.00	5.00
+TR	Frecuencia con la que se provee entrenamiento	0.00	3.00
+VR	Variedad en el trabajo	1.00	5.00
